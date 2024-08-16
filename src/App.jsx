@@ -17,7 +17,7 @@ function App() {
           subtitle={'¡Tenemos las mejores pizzas que podrás encontrar!'}
         />
         {/* <Home/> */}
-        <Login/>
+        {<Login/>}
         {/* <Register/> */}
         <Footer/>
 
